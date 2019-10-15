@@ -13,5 +13,5 @@ def square_array(array)
   counter += 1
   
   end
->>>>>>> aaaa2322b62c30d6021293feb370f7cf8c3c5b87
+#>>>>>>> aaaa2322b62c30d6021293feb370f7cf8c3c5b87
 end
